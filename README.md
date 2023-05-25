@@ -4,19 +4,19 @@
 
 ## outcomes
 
-..* practice basics html tags e.g. links,img,ul,ol
+* practice basics html tags e.g. links,img,ul,ol
 
-..* practice adding attributes to tags
+* practice adding attributes to tags
 
-..* learn about different image formats
+* learn about different image formats
 
-..* practice implementing absolute links and relative links
+* practice implementing absolute links and relative links
 
-..* create correct folder structure
+* create correct folder structure
 
-..* learn about parts of URL e.g scheme , domain and path 
+* learn about parts of URL e.g scheme , domain and path 
 
-..* practice writing well formated commit messages
+* practice writing well formated commit messages
 
 
 
